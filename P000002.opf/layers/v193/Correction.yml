@@ -1,52 +1,47 @@
-id: 783bff8f5a2d4a1aaa6447d9425526b6
+id: b279f0f3d5774c4a8a8a194fe68c5eda
 annotation_type: Correction
 revision: '00001'
 annotations:
-  6fa164579d3a46b6b4cef44980db4be4:
+  f82c99246695418b9eef6490ed0971c8:
     correction: དེ་
-    certainty: null
     span:
       start: 23922
       end: 23923
-  f7f029ac61b047f09c6c1c7097338dcd:
-    correction: སྐྱེ་
-    certainty: null
+  da9ce3c0500844768e5e628f425ecbdf:
+    correction: མི་
     span:
-      start: 389180
-      end: 389183
-  30286ed1e50c489893331216ed808099:
-    correction: སྐྱེ་
-    certainty: null
-    span:
-      start: 389746
-      end: 389749
-  46193f04f72e4ee68ef29a869aa60558:
+      start: 479539
+      end: 479540
+  2bf227731f00499fbf8cc15b005ad337:
     correction: ངེས་
-    certainty: null
     span:
-      start: 507617
-      end: 507619
-  5cb5b70bddcf4d05b33d2648df803324:
+      start: 507618
+      end: 507620
+  e53f95ebf2da425785f13069e8ba3111:
     correction: དེ་
-    certainty: null
     span:
-      start: 517276
-      end: 517277
-  cb91b5b282b54495820af230d9797f5e:
+      start: 517277
+      end: 517278
+  806daf0f12de43528d9e136818167335:
     correction: ངེས་
-    certainty: null
     span:
-      start: 547575
-      end: 547577
-  a610250305c849cabb83736be2949d46:
+      start: 547576
+      end: 547578
+  33cfcb8c28ee4e71ab5b44762ed901fc:
     correction: མེད་
-    certainty: null
     span:
-      start: 627110
-      end: 627112
-  692e181723d54dcdb5b20bbb35e0044d:
+      start: 627111
+      end: 627113
+  1316ac79ed414e90b660f67ab772eac4:
     correction: བྱེད་
-    certainty: null
     span:
-      start: 663035
-      end: 663038
+      start: 663036
+      end: 663039
+local_ids:
+  f82c99246695418b9eef6490ed0971c8: 200000
+  da9ce3c0500844768e5e628f425ecbdf: 200001
+  2bf227731f00499fbf8cc15b005ad337: 200002
+  e53f95ebf2da425785f13069e8ba3111: 200003
+  806daf0f12de43528d9e136818167335: 200004
+  33cfcb8c28ee4e71ab5b44762ed901fc: 200005
+  1316ac79ed414e90b660f67ab772eac4: 200006

@@ -1,58 +1,59 @@
-id: bfcb4af2c55645c9af4af085dbfd5a3b
+id: 84a181a090aa472fa46edbc8764a8362
 annotation_type: Correction
 revision: '00001'
 annotations:
-  2295f413fb1f4f22a0976654c6778610:
+  308cbc35ac5048aba5f13928a83e3b1e:
     correction: པར་
-    certainty: null
     span:
       start: 276528
       end: 276529
-  779e1054652d4de4addd54d8e0aca888:
+  75b426419e0d45ee985e2296be325793:
     correction: ཞེན་
-    certainty: null
     span:
       start: 296969
       end: 296971
-  af9adf78f5b54e34835eaa1020335cd0:
+  06354c9a8a9d463892b5a0d085cd7736:
     correction: སྒྲོ་
-    certainty: null
     span:
       start: 364443
       end: 364446
-  d49fdc5810bd467790a30facd5d5aca8:
+  50b46b31d7394df885996d486bdd2aa0:
     correction: འཇུག་
-    certainty: null
     span:
       start: 422911
       end: 422916
-  f5847ce66d0a4b9a9da975e81c85d4fa:
+  55a4e0a7bea341aca864bc152397b22d:
     correction: ཏེ
-    certainty: null
     span:
       start: 440906
       end: 440908
-  7fee9b05addd4dacbcab3f0d74483cdd:
+  36a770f32fa24c4fabff9672326decf9:
     correction: ནི་
-    certainty: null
     span:
       start: 673628
       end: 673629
-  95257e62e89645bdaf21c64d4df58004:
+  cf06b42f665041f2b22edd23f8ef694f:
     correction: ལྡེང་
-    certainty: null
     span:
       start: 848433
       end: 848437
-  88c5bd9573d743e5b4ba5441bd9749a1:
+  e62d0ffa3c5e4769b0da2db0820a805e:
     correction: དེ་
-    certainty: null
     span:
       start: 882253
       end: 882255
-  dc27c133cda343748ea3cd97b824090a:
+  3d0e58fc22434845ae60e5332e52c45b:
     correction: དེ་
-    certainty: null
     span:
       start: 1020134
       end: 1020135
+local_ids:
+  308cbc35ac5048aba5f13928a83e3b1e: 200000
+  75b426419e0d45ee985e2296be325793: 200001
+  06354c9a8a9d463892b5a0d085cd7736: 200002
+  50b46b31d7394df885996d486bdd2aa0: 200003
+  55a4e0a7bea341aca864bc152397b22d: 200004
+  36a770f32fa24c4fabff9672326decf9: 200005
+  cf06b42f665041f2b22edd23f8ef694f: 200006
+  e62d0ffa3c5e4769b0da2db0820a805e: 200007
+  3d0e58fc22434845ae60e5332e52c45b: 200008
