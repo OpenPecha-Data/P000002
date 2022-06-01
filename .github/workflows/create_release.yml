@@ -4,6 +4,9 @@ name: create release
     branches:
       - main
     paths-ignore: '**/README.md'
+    paths:
+      - '**.txt'
+      - '**create_release.yml'
 jobs:
   release-project:
     name: Release different versions of Text file
