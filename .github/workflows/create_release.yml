@@ -3,7 +3,6 @@ name: create release
   push:
     branches:
       - main
-    paths-ignore: '**/README.md'
     paths:
       - '**.txt'
       - '**create_release.yml'
