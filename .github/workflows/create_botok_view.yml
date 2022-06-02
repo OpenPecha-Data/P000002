@@ -2,7 +2,7 @@ name: Create Botok View
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, main ]
     paths:
       - '**create_botok_view.yml'
 
